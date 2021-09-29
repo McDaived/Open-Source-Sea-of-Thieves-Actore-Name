@@ -11,4 +11,4 @@
 #
 1.`actors.json` - الملف الاساسي
 
-2.`actors.csv` - ملف بصيفه CSV نسخه من `actors.json` تم اضافته بواسطه `Import_csv.py`
+2.`actors.csv` - CSV ملف بصيفه  ( `actors.json`نسخه من) تم اضافته بواسطه >> `Import_csv.py`
